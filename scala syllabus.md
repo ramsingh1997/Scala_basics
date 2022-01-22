@@ -4,7 +4,7 @@
 A brief description of what this project does and who it's for
 
 ## Basics:
-- Hello World
+#c5f015- Hello World
 - Primitive Types
 - Type inference
 - Vars vs Vals
