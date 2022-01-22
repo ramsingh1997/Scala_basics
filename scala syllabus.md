@@ -1,7 +1,7 @@
 
 # scala syllabus
-https://docs.scala-lang.org/tour/basics.html
-https://www.geeksforgeeks.org/introduction-to-scala/
+- https://docs.scala-lang.org/tour/basics.html
+- https://www.geeksforgeeks.org/introduction-to-scala/
 # scala syllabus
 
 A brief description of what this project does and who it's for
