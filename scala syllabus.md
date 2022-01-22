@@ -4,7 +4,7 @@
 A brief description of what this project does and who it's for
 
 ## Basics:
-#c5f015- Hello World
+- ![#f03c15](https://via.placeholder.com/15/c5f015/000000?text=+) `Hello World`
 - Primitive Types
 - Type inference
 - Vars vs Vals
